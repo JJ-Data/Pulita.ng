@@ -419,7 +419,7 @@ img {
 
 .section-title h2:before, .section-title-white h2:before, .section-title-s2 h2:before, .section-title-s5 h2:before, .section-title-s6 h2:before, .section-title-s7 h2:before {
   content: "";
-  background-color: #799ccb;
+  background-color: #db3524;
   width: 33px;
   height: 5px;
   position: absolute;
@@ -510,7 +510,7 @@ img {
 
 .section-title-s3 h2:before, .section-title-s4 h2:before {
   content: "";
-  background-color: #799ccb;
+  background-color: #db3524;
   width: 80px;
   height: 2px;
   position: absolute;
@@ -619,7 +619,7 @@ img {
 
 .theme-btn-s5 {
   background-color: transparent;
-  border: 2px solid #799ccb;
+  border: 2px solid #db3524;
   color: #fff;
 }
 
@@ -738,7 +738,7 @@ img {
 	#blog grids
 ******************************/
 .page-title {
-  background: url("../images/page-title.jpg") center center/cover no-repeat local;
+  background: url("../images/about-title.jpg") center center/cover no-repeat local;
   height: 260px;
   position: relative;
   width: 100%;
@@ -4332,7 +4332,7 @@ img {
   content: "";
   width: 465px;
   height: 465px;
-  border: 2px solid #799ccb;
+  border: 2px solid #db3524;
   position: absolute;
   left: 150px;
   top: -22px;
@@ -5916,7 +5916,7 @@ img {
 #3.0    features
 --------------------------------------------------------------*/
 .features-title {
-  border: 2px solid #799ccb;
+  border: 2px solid #db3524;
   padding: 45px 30px;
   border-radius: 5px;
 }
@@ -6038,7 +6038,7 @@ img {
 }
 
 .feature-grid .more {
-  color: #799ccb;
+  color: #db3524;
   font-weight: 600;
 }
 
