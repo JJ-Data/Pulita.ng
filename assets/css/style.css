@@ -915,6 +915,8 @@ img {
   color: #db3524;
   font-weight: 600;
   margin: 0 0 1.2em;
+  background-color: #fff;
+  opacity: 0.7;
 }
 
 @media (max-width: 1199px) {
